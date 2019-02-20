@@ -16,4 +16,13 @@ The pgm file is read and written according to the following format.
 "ÇÇÇÇÆÅÇÈÊÇÇÇÈÉÉÉÈÈÉÉÈÉÊÉÇÈÈÈÉÉÉÉÈÈÈÈÈËÍËÈËËÊÊËËÌÌÊÉËÎÍÉËĞÍÍÍÍÌÌÍÎÎÏĞĞÏ ..."
 
 
+# Basic usage
+
+This program compiled on UBUNTU 16.04 LTS 
+
+Compile instruction
+- g++ main.cpp createPGMfile.cpp
+- ./a <inputfilename> <outputfilename>
+
+
 
