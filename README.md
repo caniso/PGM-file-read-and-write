@@ -15,6 +15,5 @@ The pgm file is read and written according to the following format.
 
 "ÇÇÇÇÆÅÇÈÊÇÇÇÈÉÉÉÈÈÉÉÈÉÊÉÇÈÈÈÉÉÉÉÈÈÈÈÈËÍËÈËËÊÊËËÌÌÊÉËÎÍÉËĞÍÍÍÍÌÌÍÎÎÏĞĞÏ ..."
 
-an example photo is given as input
 
 
