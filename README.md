@@ -22,7 +22,7 @@ This program compiled on UBUNTU 16.04 LTS
 
 Compile instruction
 - g++ main.cpp createPGMfile.cpp
-- ./a <inputfilename> <outputfilename>
+-" ./a <-inputfilename-> <-outputfilename->"
 
 
 
