@@ -1,7 +1,5 @@
 #include <iostream>
 #include<string>
-
-
 #include "createPGMfile.h"
 
 using namespace std;
@@ -17,9 +15,6 @@ int main(int argc , char *argv[])
 	
 	pgm.readFile();
 	pgm.writeFile();
-	
-	
-	
 	
 	return 0;
 }
