@@ -105,10 +105,8 @@ void fileOperation::writeFile()
 			else{
 				outputFile << static_cast <char>(tempMatrix_[i][j]);
 			}
-		}
-	
+		}	
 	}
 	
 	outputFile.close();
 }
-
